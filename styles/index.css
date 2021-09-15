@@ -1,0 +1,121 @@
+.container__squares{
+    height: 100vh;
+    background-color:#370617;
+    width: 1152px;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 200px;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.item{
+    background-color: coral;
+    border:1px solid black;
+    border-radius: 8px;
+    width: 468px;
+    height: 160px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;        
+}
+
+
+.box-8, .box-10, .box-19{
+    background-color: #9D0208;
+    width: 78px;
+    height: 78px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 9px;
+    margin-top: 63px;
+    margin-left: 19px;
+    flex-direction: row;
+    justify-content: flex-start; 
+       
+}
+
+
+.box-13, .box-14, .box-15{
+    background-color: #9D0208;
+    width: 78px;
+    height: 120px;
+    border-radius: 4px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+  
+}
+
+.box-9, .box-11, .box-12{
+    background-color: #9D0208;
+    width: 78px;
+    height: 78px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 10px;
+
+}
+
+.box-16, .box-17, .box-18{
+    background-color: #9D0208;
+    width: 78px;
+    height: 78px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 20px;
+    
+}
+
+.box-20, .box-21{
+    background-color: #9D0208;
+    width: 78px;
+    height: 120px;
+    border-radius: 4px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text-inside{
+    width: 54px;
+    height: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 10px;
+   
+}
+
+.box-22{
+    background-color: #9D0208;
+    width: 78px;
+    height: 64px;
+    border-radius: 4px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.rectangle-20, .rectangle-21{
+    background-color: #9D0208;
+    width: 78px;
+    height: 78px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+.rectangle-22{
+    background-color: #9D0208;
+    width: 156px;
+    height: 78px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+
+
